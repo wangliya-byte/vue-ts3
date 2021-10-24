@@ -1,6 +1,6 @@
 <template>
     <nav class="navbar navbar-dark bg-primary justify-content-between mb-4 px-4">
-        <a class="navbar-brand" href="#">知之为知之</a>
+        <a class="navbar-brand" href="#">不知为不知</a>
         <ul v-if="!user.isLogin" class="nav">
             <li class="nav-item">
                 <a class="btn btn-outline-light my-2 mx-2" href="#">登录</a>
